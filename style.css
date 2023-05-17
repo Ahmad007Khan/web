@@ -1,0 +1,29 @@
+.container1{
+    border: 1px solid rgb(245, 10, 10);
+    background-image: url("./test project 4/test project 4/hero-imge.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 600px;
+    
+    
+}
+.container1_con1{
+    border: 1px solid rgb(252, 7, 7);
+    height: 150px;
+    
+}
+.container1_con2{
+    border: 1px solid rgb(240, 7, 7);
+    height: 450px;
+    padding: 0% 6%;
+}
+.coloringthetext{
+    color: blue;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,0);
+}
+.bg-light {
+    background-color: #f8f9fa!important;
+    margin-top: 1px;
+}
